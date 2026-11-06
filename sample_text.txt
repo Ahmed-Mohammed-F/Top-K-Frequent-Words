@@ -1,0 +1,5 @@
+Algorithms are useful in computer science.
+Sorting algorithms organize data. Graph algorithms find paths.
+Heaps are useful for priorities and finding frequent words.
+Data is important, and algorithms help us understand data.
+We learn algorithms by writing code and testing code.
